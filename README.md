@@ -1,4 +1,4 @@
-### 🌱芝生職人です🌱
+### 🌱GitHub芝生職人です🌱
 <!--
 **RyuichiroYoshida/RyuichiroYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

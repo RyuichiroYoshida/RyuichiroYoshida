@@ -1,6 +1,8 @@
 ### 🌿🌱GitHub芝生職人です🌱🌿
 
+
 バンタンゲームアカデミー東京校　1年
+
 
 主に使っている言語　C# 日本語
 
@@ -8,7 +10,10 @@
 
 主に使っているゲームエンジン　Unity
 
+
 日々新しい事を学び精進します
+
+対戦よろしくお願いします
 <!--
 **RyuichiroYoshida/RyuichiroYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

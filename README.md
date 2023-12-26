@@ -1,5 +1,6 @@
 ### 🌿🌱GitHub芝生職人です🌱🌿
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RyuichiroYoshida)](https://github.com/ryo-ma/github-profile-trophy)
 
 バンタンゲームアカデミー東京校
 

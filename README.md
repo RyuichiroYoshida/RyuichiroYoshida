@@ -14,8 +14,10 @@
 
 勉強しているゲームエンジン　Unreal Engine 5
 
-日々新しい事を学び精進します
+勉強したいこと　データベース
 
+日々新しい事を学び精進します
+　
 対戦よろしくお願いします
 <!--
 **RyuichiroYoshida/RyuichiroYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,9 @@
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuichiroYoshida&theme=vue-dark&show_icons=true)](https://github.com/RyuichiroYoshida/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuichiroYoshida&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/RyuichiroYoshida/github-readme-stats)
 
-バンタンゲームアカデミー東京校　3年制ゲームプログラマー専攻　1年次
+バンタンゲームアカデミー東京校
+
+3年制ゲームプログラマー専攻　1年次
 
 対戦よろしくお願いします
 <!--

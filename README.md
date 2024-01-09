@@ -1,4 +1,4 @@
-### 🌿🌱GitHub芝生職人です🌱🌿
+### 🌿🌱GitHub元芝生職人です🌱🌿
 
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuichiroYoshida&theme=vue-dark&show_icons=true)](https://github.com/RyuichiroYoshida/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuichiroYoshida&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/RyuichiroYoshida/github-readme-stats)

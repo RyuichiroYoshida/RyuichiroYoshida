@@ -7,7 +7,7 @@
 
 3年制ゲームプログラマー専攻　1年次
 
-対戦よろしくお願いします
+チーム制作頑張っています対戦よろしくお願いします
 <!--
 **RyuichiroYoshida/RyuichiroYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

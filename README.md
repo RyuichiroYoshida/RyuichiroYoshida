@@ -3,9 +3,7 @@
 
 バンタンゲームアカデミー東京校
 
-3年制ゲームプログラマー専攻　1年次
-
-チーム制作頑張っています対戦よろしくお願いします
+3年制ゲームプログラマー専攻　2年次
 <!--
 **RyuichiroYoshida/RyuichiroYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

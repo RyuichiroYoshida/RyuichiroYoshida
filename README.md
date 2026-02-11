@@ -1,5 +1,7 @@
 26卒　学生
 
+サーバーサイド (バックエンド・インフラ) エンジニア
+
 ### 
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,notion,jenkins,githubactions,git,github,rider,vscode)](https://skillicons.dev)
 ### 
